@@ -1,5 +1,5 @@
 # Next-Level-Week
- Projeto realizado durante a Next Level Week, da Rocketseat
+ Projeto realizado durante a Next Level Week, da Rocketseat, ministrado pelo Mayk Brito.
  
  ## Sobre
  
