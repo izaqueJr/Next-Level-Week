@@ -5,7 +5,7 @@
  
  O Ecoleta é um site que permite o cadastro de empresas de reciclagem de uma forma rápida e intuitiva.
  
- Tecnologias utilizadas:  
+ ###Tecnologias utilizadas:  
 
 :space_invader: Front-end:        
 * Nunjucks:  
